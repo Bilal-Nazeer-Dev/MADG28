@@ -64,9 +64,36 @@ Login and API data is mocked in this version. Courses and user authentication ar
 * `assets/`
 * `test/`
 
-## 📸 Screenshots
+## 📸 Screenshots - App Screens
 
-(keep your existing screenshots here as it is)
+
+## App Screenshots
+
+###  Login Screen
+<img src="screenshots/login_screen.jpg" width="300"/>
+
+###  Profile Screen
+<img src="screenshots/profile.jpg" width="300"/>
+
+###  Edit Profile
+<img src="screenshots/edit_profile.jpg" width="300"/>
+
+###  Course Details
+<img src="screenshots/course_details.jpg" width="300"/>
+
+###  Course Listing
+<img src="screenshots/course.jpg" width="300"/>
+
+###  Enrolled Courses
+<img src="screenshots/enrolled_courses.jpg" width="300"/>
+
+###  Search by Name
+<img src="screenshots/search_by_name.jpg" width="300"/>
+
+###  Settings Screen
+<img src="screenshots/setting.jpg" width="300"/>
+
+
 
 ## 🌐 State Management
 
